@@ -52,21 +52,30 @@ Pratice of Tableu
 7. 만들어진 누적 막대 차트의 레이블 수정
 8. '지역' 필터를 활용해 누적 막대 차트 살펴보기
 
-### 14. 측정값 없이 리스트 만들기
+### 15. Null 값을 0으로 처리하기
 ![시트 14_1](https://user-images.githubusercontent.com/70744232/117765847-91a8c880-b269-11eb-8082-743094dcd7d4.png)
 ![시트 14_2](https://user-images.githubusercontent.com/70744232/117765849-92415f00-b269-11eb-956f-9531c8a990ac.png)
-1. 차원의 '시군구' 더블-클릭
-2. 차원의 '시군구'를 '레이블' 마크로 드래구 이후 머리글 표시 해제
-3. 차원의 '시도'를 필터 선반으로 드래그
-4. '서울특별시' 시트를 복제하여 다른 6개 광역시 시트 만들기
-5. 대시보드를 만들어 모든 시트 추가하기
+1. 고객 세그면트별 시도 레코드 수 및 매출 크로스 탭 만들기
+2. ZN.LOOKUP 함수를 활용하여 처리 계산식 만들기
+   - ZN(LOOKUP(SUM(레코드수 or 매출),0))
+   * ZN 함수 : NULL 값 대신 0 값을 사용가능.
+   null이 아니면 식을 반환하고, null이면 0을 반환
+   * LOOKUP 함수 : 현재 행의 기준 오프셋으로 지정된 대상 행에서의 식의 값을 반환
+3. 위에서만든계산색을 마크 카드 내 기존 데이터 필드와 교체
+4. 머리글 별칭을 편집하여 크로스탭 정리하기
+5. 전월 대비성장률 워크시트 만들기
+6. ZN.LOOKUP 함수를 활용하여 처리 계산식 만들기
+  - ZN(LOOKUP(퀵 테이블 계산된 필드 복사),0)
+7. 위에서 만든 계산색을마크 카드 내 기존 필드와 교체 
 
 ### 16. 
 ![시트 16 고객 세그먼트_선택한 값만 하이라이팅 하기](https://user-images.githubusercontent.com/70744232/117765850-92415f00-b269-11eb-90c1-a8ee54b55c8b.png)
 
+* 고객 세그먼트 
+IIF([고객 세그먼트]=[고객 세그먼트 선택], "highlight", "dimmed")
+
 ### 17.
 ![시트 17 specialist 문제](https://user-images.githubusercontent.com/70744232/117765852-92d9f580-b269-11eb-8212-f67ed5938ffc.png)
-
 ### 18. 
 ![시트 18_1 Window_AVG(전체 평균)](https://user-images.githubusercontent.com/70744232/117765854-92d9f580-b269-11eb-8536-6387e64b1ef7.png)
 ![시트 18_2 Window_AVG(연평균)](https://user-images.githubusercontent.com/70744232/117765855-93728c00-b269-11eb-9bd3-95d436d82922.png)
