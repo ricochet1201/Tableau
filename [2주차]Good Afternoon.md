@@ -54,6 +54,7 @@ Pratice of Tableu
 
 ### 15. Null 값을 0으로 처리하기
 ![시트 14_1](https://user-images.githubusercontent.com/70744232/117765847-91a8c880-b269-11eb-8082-743094dcd7d4.png)
+
 ![시트 14_2](https://user-images.githubusercontent.com/70744232/117765849-92415f00-b269-11eb-956f-9531c8a990ac.png)
 1. 고객 세그면트별 시도 레코드 수 및 매출 크로스 탭 만들기
 2. ZN.LOOKUP 함수를 활용하여 처리 계산식 만들기
