@@ -7,9 +7,13 @@
 
 ### :full_moon_with_face: [2104027~]플랜잇 태블로 굿애프터눈
 
+<br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70744232/118385011-2e8eab80-b646-11eb-88af-13a80565a512.jpg"> 
 </p>
+<br>
+
+<hr size="1">
 
 ### :school_satchel: [210312~210326]태블로 신병훈련소 7기 과정 수료
 
