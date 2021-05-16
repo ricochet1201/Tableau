@@ -1,5 +1,4 @@
-# Tableau
-Pratice of Tableu
+# [2W] 10 ~ 18강
 
 ### 10. 퀵테이블 계산 : 전월/ 전년 대비 성장률
 ![시트 10](https://user-images.githubusercontent.com/70744232/117765837-8eadd800-b269-11eb-9590-7d23ab73e818.png)
