@@ -1,5 +1,5 @@
-# Tableau
-Pratice of Tableu
+# forbes_billionaires
+포브스 선정 백만장자 데이터 분석
 
 ### 전세계 자산가 밀도수
 ![자산 밀도](https://user-images.githubusercontent.com/70744232/117803559-b9ac2200-b291-11eb-8afc-f24dcec66dad.png)
