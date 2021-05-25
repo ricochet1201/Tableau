@@ -9,3 +9,6 @@
 
 ## 4. 동물보호소에 가장 많이 입소하는 달
 ![4  입소 달](https://user-images.githubusercontent.com/70744232/119483088-956f3b80-bd8f-11eb-8367-07ca5264c77f.png)
+
+## 5. 보호동물을 입양하는 달
+![5  입양 달](https://user-images.githubusercontent.com/70744232/119484816-593cda80-bd91-11eb-8218-8d58c613d49f.png)
