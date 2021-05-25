@@ -22,3 +22,4 @@
 ### :school_satchel: [210309~ ]스터디 실습
 
 - [2W] forbes_billionaires_geo.csv : 포브스 선정 백만장자 데이터 분석
+- [4W] 동물 데이터 분석
